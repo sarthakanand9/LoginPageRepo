@@ -45,8 +45,11 @@ cd login-docker-app
 Step 2: Start Containers
 
     docker-compose up --build
+
+
 Step 3: Open in Browser
-http://localhost:5000
+
+    http://localhost:5000
 
 🧠 How It Works
 
@@ -70,13 +73,14 @@ http://localhost:5000
     🔍 How to Check Stored Data (MySQL in Docker)
 
 Step 1: Check Running Containers
-docker ps
+
+    docker ps
 
 👉 Copy the MySQL container ID (for service db)
 
 Step 2: Access MySQL Container
 
-docker exec -it <container_id> mysql -u root -p
+    docker exec -it <container_id> mysql -u root -p
 
 👉 Enter password:
 root
