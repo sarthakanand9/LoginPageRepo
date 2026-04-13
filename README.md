@@ -39,7 +39,10 @@ Make sure you have installed:
 ## Step 1: Clone Repository
 
 ```bash
+Step 1: Clone Repository
+
 git clone https://github.com/sarthakanand9/login-docker-app.git
+
 cd login-docker-app
 
 Step 2: Start Containers
