@@ -97,7 +97,9 @@ Step 3: Use Database
     DB (MySQL)
     Image: mysql:5.7
     Port: 3307 (external) → 3306 (internal)
-    🔧 Useful Commands
+
+
+🔧 Useful Commands
     Stop Containers
     docker-compose down
     Rebuild Containers
