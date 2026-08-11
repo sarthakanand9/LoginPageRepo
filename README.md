@@ -40,16 +40,17 @@ Make sure you have installed:
 
 ```bash
 Step 1: Clone Repository
-
+```
 git clone https://github.com/sarthakanand9/login-docker-app.git
-
+```
+```
 cd login-docker-app
-
+```
 Step 2: Start Containers
-
+```
     docker-compose up --build
 
-
+```
 Step 3: Open in Browser
 
     http://localhost:5000
